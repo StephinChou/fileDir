@@ -8,8 +8,6 @@ import java.net.*;
 import org.json.JSONObject;
 import org.json.JSONException;
 import org.apache.commons.httpclient.methods.multipart.FilePart;
-
-import cn.flysdk.pay.module.order.ChannelCommonService;
  /**
  * 提供访问腾讯开放平台 OpenApiV3 的接口
  *
